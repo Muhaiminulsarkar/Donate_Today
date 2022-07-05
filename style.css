@@ -132,3 +132,19 @@ body {
 #education {
     background-color: #FFF4D6;
 }
+
+footer {
+    background-color: black;
+}
+
+footer h1 {
+    color: #FF5959;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer p {
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 20px;
+}
