@@ -95,3 +95,40 @@ body {
     border-bottom: 2px solid rgb(231, 231, 231);
 
 }
+
+.donate-plan {
+    margin-top: 5%;
+    padding: 0px 90px;
+    text-align: center;
+}
+
+.donate-plan div h1 {
+    font-size: 40px;
+}
+
+.donate-plan div p {
+    font-family: 'Montserrat';
+    font-weight: 100;
+    color: rgb(141, 141, 141);
+
+}
+
+.donation {
+    display: flex;
+    margin: 3% 10%;
+}
+
+.plan {
+    padding: 50px 20px;
+    background-color: #FFEEEE;
+    margin: 0px 10px;
+    border-radius: 9px;
+}
+
+#food {
+    background-color: #EDF5F6;
+}
+
+#education {
+    background-color: #FFF4D6;
+}
