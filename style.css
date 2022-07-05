@@ -38,9 +38,60 @@ body {
     text-decoration: none;
     color: white;
     background-color: #FF5959;
-    padding: 8px 25px;
+    padding: 10px 25px;
     border-radius: 5px;
     margin-top: 10px;
+    margin-bottom: 20px;
     display: inline-block;
+
+}
+
+.donate-today {
+    padding: 0px 50px;
+    text-align: center;
+}
+
+.donate-today div h1 {
+    font-size: 40px;
+}
+
+.donate-today div p {
+    font-family: 'Montserrat';
+    font-weight: 100;
+    color: rgb(141, 141, 141);
+
+}
+
+.tk {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.tk h2 {
+    color: rgb(77, 77, 77);
+    padding: 30px 30px;
+    background-color: rgb(241, 241, 241);
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#tk2 {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+
+.input-btn {
+    height: 100%;
+    width: 60%;
+    margin: 50px 0px;
+    border: none;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+    text-align: center;
+    font-family: 'Montserrat';
+    border-bottom: 2px solid rgb(231, 231, 231);
 
 }
