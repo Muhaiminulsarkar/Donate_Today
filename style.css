@@ -6,6 +6,11 @@ body {
     height: 100vh;
 }
 
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
 .hero-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(images/flood2.jpg);
     background-repeat: no-repeat;
@@ -172,4 +177,37 @@ footer p {
 .pic h4 {
     margin-top: -20px;
     color: #FF5959;
+}
+
+.updates {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF4D6;
+    margin: 0% 20%;
+    border-radius: 5px;
+}
+
+.updates input {
+    height: 40px;
+    width: 40%;
+    margin: 50px 0px;
+    border: none;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    font-family: 'poppins';
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.updates button {
+    height: 40px;
+    border: none;
+    width: 15%;
+    font-family: 'poppins';
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: #ffffff;
+
 }
