@@ -211,3 +211,29 @@ footer p {
     color: #ffffff;
 
 }
+
+.services {
+    display: flex;
+    margin: 3% 0%;
+    padding: 5% 8%;
+    background-color: #f76c6c;
+    text-align: center;
+}
+
+.plan2 {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFEEEE;
+    margin: 0px 20px;
+    border-radius: 9px;
+}
+
+.plan2 img {
+    background-color: #ffffff;
+    padding: 25px;
+    margin-top: -45px;
+    border: 5px solid #f76c6c;
+    border-radius: 50%;
+
+}
