@@ -148,3 +148,28 @@ footer p {
     text-align: center;
     padding-bottom: 20px;
 }
+
+.member {
+    display: flex;
+    margin: 3% 10%;
+}
+
+
+.pic {
+    padding: 15px 15px;
+    background-color: #eeeeee;
+    margin: 0px 15px;
+    border-radius: 9px;
+    text-align: center;
+}
+
+
+.pic img {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.pic h4 {
+    margin-top: -20px;
+    color: #FF5959;
+}
